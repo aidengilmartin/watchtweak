@@ -9,6 +9,7 @@ Current state:
     - Working foreground service for constant communication channel with watch.
     - Listens for notifications and sends notification alerts to watch.
     - Sets the time and date on watch.
+    - Media playback and volume controls are functional.
 
 Things to do:
 
