@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WatchTweak</string>
+    <string name="check_permissions">Check Permissions</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="select_device">Select Device</string>
+</resources>
